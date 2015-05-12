@@ -1,1 +1,1 @@
-Formation git 12/05/2015
+Le site est disponible à l'adresse http://www.resanet.com/resaroute/
