@@ -1,1 +1,1 @@
-Formation git 12/05/2015
+Les tâches techniques à effectuer sont dans le fichier TODO.txt
